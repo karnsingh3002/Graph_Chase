@@ -97,8 +97,4 @@ All events automatically **revert** once expired.
 - Simulation stops after **50 timesteps** if unresolved
 
 ---
-      "edge": [33, 32],
-      "steps": 6
-    }
-  ]
-}
+
